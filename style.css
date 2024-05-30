@@ -23,6 +23,7 @@ body {
   border-radius: 32px;
   border: 1px 0px 0px 0px;
   opacity: 0px;
+  cursor: pointer;
 }
 .section1 {
   display: flex;
@@ -65,6 +66,7 @@ body {
   margin-top: 10px;
   font-size: 24px;
   width: 450px;
+  cursor: pointer;
   background-color: #0078ff;
   color: #ffff;
   line-height: 30px;
@@ -133,6 +135,7 @@ body {
   opacity: 0px;
   background-color: #0078ff;
   color: #ffff;
+  cursor: pointer;
   margin-top: 15px;
   display: flex;
   justify-content: flex-start;
